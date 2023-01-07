@@ -106,6 +106,49 @@ nav li{
 }
 
 
+/* Section Image and Failure */
+.PhotoImg{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
 
+.failureHead{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    text-align: right;
+    
+}
 
+.font-failureHead
+{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
 
+}
+
+.font-failure-discription{
+
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 1035px;
+    top: 1320px;
+    text-align: left;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+ 
