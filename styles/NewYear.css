@@ -47,7 +47,7 @@ nav li{
     background-image: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
-    width: 1600px;
+    width: 1800px;
     height: 808px;
     left: 1600px;
     top: 808px;
@@ -201,3 +201,75 @@ nav li{
     text-align: center;
     color: #737272;
  }
+
+
+ /* Color For Hand-Watch Pic */
+
+ .watch-container
+ {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 340px;
+    top: 2222.26px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    /* background-image: url('../images/watch.png'); */
+    border-radius: 8px;
+ }
+
+ .watch-gradient{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 340px;
+    top: 2222.26px;
+    border-radius: 8px;
+ }
+
+ .heading-watch{
+
+    padding: 60px 500px 60px 150px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+
+ }
+
+ .call-now-button
+ {
+    
+        color: #FD6E0A;
+        font-weight:700;
+        font-size: 20px;
+        border: 0;
+        padding: 18px 35px;
+        height: 64px;
+        border-radius: 10px;
+        background-color: #FFFFFF;
+
+    
+ }
+
+ .pos{
+    left: 154px;
+    top: 200.26px;
+    position: absolute;
+ }
+
+
+ /* Feature Design */
+
+ .feature-container
+ {
+    position: absolute;
+    width: 1800px;
+    height: 577px;
+    left: 0px;
+    top: 2652.26px;
+    background: #151414;
+ }
+
+
